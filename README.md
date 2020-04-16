@@ -1,1 +1,2 @@
-# PROJECT1
+# Cookmania
+This is a cooking website.
